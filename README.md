@@ -42,7 +42,7 @@
 ### 💻 Backend
 - Java / Spring MVC → Spring Boot 마이그레이션
 - MyBatis
-- Spring Security + OAuth 2.0 (소셜 로그인)
+- OAuth 2.0 (소셜 로그인)
 - Ajax (댓글/대댓글 비동기 처리)
 
 ### 🖥️ Frontend
@@ -103,7 +103,7 @@
 
 ## 📸 시연 이미지
 
-![메인 이미지](attachment:dbbfeba9-5a9b-4471-be91-c881c0dccf36:image.png)
+캡쳐해서 사진 넣기
 
 ---
 
