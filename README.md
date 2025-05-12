@@ -1,6 +1,5 @@
 # 🛋️ 인테리어 커뮤니티 & 쇼핑몰 플랫폼
-
-![image](https://github.com/user-attachments/assets/f32c9d30-092c-4ada-ac3c-8841b653c8b7)
+![image](https://github.com/user-attachments/assets/45c319cd-edd0-468b-9f4c-5dc8a4d07d85)
 
 ## ℹ️ 프로젝트 소개
 
