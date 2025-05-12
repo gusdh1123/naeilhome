@@ -1,5 +1,4 @@
-![커뮤니티 drawio](https://github.com/user-attachments/assets/1bbe4a92-8cf4-4784-9f6d-9145cb91016c)# 🛋️ 인테리어 커뮤니티 & 쇼핑몰 플랫폼
-![image](https://github.com/user-attachments/assets/45c319cd-edd0-468b-9f4c-5dc8a4d07d85)
+## 🛋️ 인테리어 커뮤니티 & 쇼핑몰 플랫폼
 
 ## ℹ️ 프로젝트 소개
 
