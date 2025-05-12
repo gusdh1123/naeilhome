@@ -116,41 +116,22 @@
 ![커뮤니티 drawio](https://github.com/user-attachments/assets/29f9d729-9c1f-4dfb-baf1-71a5abbc7ced)
 
 ## 댓글 및 대댓글
-![image](https://github.com/user-attachments/assets/fc6100a9-71fe-47ac-8eea-a90615f09b3f)
+![image](https://github.com/user-attachments/assets/a5ceed57-61b5-4152-9b25-853e0fcdcee5)
 
 ## 좋아요, 북마크, 팔로우
-![image](https://github.com/user-attachments/assets/e67d35b9-81d5-4f57-bcfa-df768ef033a9)
-![image](https://github.com/user-attachments/assets/fce17bfc-7627-42cf-97ba-6c43f835702e)
-##
-![image](https://github.com/user-attachments/assets/44a39dd9-aa09-40fa-a044-886e162900fe)
-![image](https://github.com/user-attachments/assets/199dde6e-a404-4ae4-80b0-fd773538bc86)
-##
-![image](https://github.com/user-attachments/assets/ad4c0ef2-531e-4dd2-b8fb-d92bfbaffb91)
+![좋아요, 북마크, 팔로우 drawio](https://github.com/user-attachments/assets/b1a7467c-fb4e-4e22-a599-7e980b72a55b)
 
 ## 마이페이지
-![image](https://github.com/user-attachments/assets/36204492-3e4b-401e-91de-c0c1451474e4)
-##
-![image](https://github.com/user-attachments/assets/28987dc8-ac20-46c5-ac9e-6d80c693b8bc)
-##
-![image](https://github.com/user-attachments/assets/a5bae5b4-460c-415f-8d99-e3017145be52)
-##
-![image](https://github.com/user-attachments/assets/87d55f94-fff1-4c22-8817-b3aa9ae0d9c9)
+![마이페이지 drawio](https://github.com/user-attachments/assets/a441e734-9170-499a-ad68-c7f2f9efa50a)
 
 ## 찜하기
-![image](https://github.com/user-attachments/assets/2b5f8b6f-c756-4850-b1ad-e8b2b3abcd4e)
-![image](https://github.com/user-attachments/assets/b0f4b5dd-d9a0-4f11-ad8f-a648bc757ced)
+![찜하기 drawio](https://github.com/user-attachments/assets/e71cdb73-16c4-42b6-806a-2e53f29da046)
 
 ## 장바구니
-![image](https://github.com/user-attachments/assets/1b3a08ac-567c-44ed-b09f-8e9319ae2e95)
+![image](https://github.com/user-attachments/assets/61b352a2-368c-4f88-bedb-04f19e98c02b)
 
 ## 리뷰
-![image](https://github.com/user-attachments/assets/efdcf663-0819-4884-995b-e42e4f8519c1)
-##
-![image](https://github.com/user-attachments/assets/ed87f42a-5d12-47b4-996c-364de9f825a0)
-##
-![image](https://github.com/user-attachments/assets/0670ad81-47bb-4841-be44-6777ead42dae)
-##
-![image](https://github.com/user-attachments/assets/515b504a-a183-4381-bd1d-7e847445ef7b)
+![리뷰 drawio](https://github.com/user-attachments/assets/02add8d1-2d03-4a13-ad97-96af550d7bfb)
 
 ---
 
