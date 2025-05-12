@@ -1,4 +1,4 @@
-# 🛋️ 인테리어 커뮤니티 & 쇼핑몰 플랫폼
+![커뮤니티 drawio](https://github.com/user-attachments/assets/1bbe4a92-8cf4-4784-9f6d-9145cb91016c)# 🛋️ 인테리어 커뮤니티 & 쇼핑몰 플랫폼
 ![image](https://github.com/user-attachments/assets/45c319cd-edd0-468b-9f4c-5dc8a4d07d85)
 
 ## ℹ️ 프로젝트 소개
@@ -107,19 +107,13 @@
 ## 📸 시연 이미지
 
 ## 로그인
-![제목 없는 다이어그램 drawio](https://github.com/user-attachments/assets/9daa1cfe-0b23-462e-a05f-88cd7ece51ea)
+![로그인 drawio](https://github.com/user-attachments/assets/6368f10d-bde5-4f82-b941-6c7e7383dfd2)
 
 ## 이메일 인증
-![image](https://github.com/user-attachments/assets/e2f18eb2-bb05-4b8b-833c-33fc3af2fb36)
-##
-![image](https://github.com/user-attachments/assets/7165cf35-12d3-4fa7-a89c-9ff2e71af547)
+![이메일 인증 drawio](https://github.com/user-attachments/assets/aab6bab7-e00d-404e-a42a-65deb9cd8ccd)
 
 ## 커뮤니티
-![image](https://github.com/user-attachments/assets/6189b195-1c52-40d8-af19-6a5b185d7bc5)
-##
-![image](https://github.com/user-attachments/assets/7a3f2881-eb72-44b8-bf30-4cbf0aeda53e)
-##
-![image](https://github.com/user-attachments/assets/387d8927-1429-46ce-86e6-1542e7b0b2d7)
+![커뮤니티 drawio](https://github.com/user-attachments/assets/29f9d729-9c1f-4dfb-baf1-71a5abbc7ced)
 
 ## 댓글 및 대댓글
 ![image](https://github.com/user-attachments/assets/fc6100a9-71fe-47ac-8eea-a90615f09b3f)
