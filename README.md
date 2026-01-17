@@ -59,6 +59,7 @@
 ## 🙋‍♂️ 담당 역할 (Backend Developer)
 
 ### 🔐 회원 · 인증 (OAuth 2.0 + 이메일 인증)
+- 일반 로그인 구현
 - 카카오 / 네이버 / 구글 OAuth 2.0 인증 구현  
   - Authorization Code 발급 → Access Token 요청 → 사용자 정보 조회  
   - Access Token 만료 시 Refresh Token을 이용한 자동 재발급 처리  
