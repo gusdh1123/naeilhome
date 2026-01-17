@@ -232,7 +232,12 @@
 
 서비스 전반의 도메인 간 관계를 빠르게 파악하기 위한 구조도입니다.
 
+<details>
+  <summary>✨ 클릭해서 펼치기 / 접기</summary>
+
 <img width="2523" height="1123" alt="erd 간소 drawio" src="https://github.com/user-attachments/assets/ed8258b4-89a4-46c6-b459-f0e3d7a204fe" />
+
+</details>
 
 ### 상세 ERD
 
