@@ -29,7 +29,6 @@
 
 ### 🗃️ Database
 - Oracle DB (Docker 환경)
-- ERD 설계 (커뮤니티 + 쇼핑몰 도메인)
 
 ### ☁️ DevOps
 - AWS EC2 (Ubuntu)
