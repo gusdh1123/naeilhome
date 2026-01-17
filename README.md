@@ -49,7 +49,7 @@
 - Ajax (댓글/대댓글 비동기 처리)
 
 ### 🖥️ Frontend
-- HTML / CSS / JS / JQuery
+- HTML / CSS / JS / jQuery
 - Summernote (게시글 에디터)
 - Tiles (공통 레이아웃 구성)
 
