@@ -1,4 +1,4 @@
-## 🛋️ [내일의 집(인테리어 커뮤니티 & 쇼핑몰 플랫폼)](http://www.naeilhomeshop.kro.kr/)
+## 🛋️ [내일의 집(커뮤니티 기반 인테리어 쇼핑몰 플랫폼)](http://www.naeilhomeshop.kro.kr/)
 [![image](https://github.com/user-attachments/assets/8cb95655-52e1-4fef-8e31-0bf0e0bc956f)](http://www.naeilhomeshop.kro.kr/)
 
 ## ℹ️ 프로젝트 소개
