@@ -162,7 +162,7 @@
 </details>
 
   <details>
-  <summary>로그인 / 회원가입</summary>
+  <summary><b>로그인 / 회원가입</b></summary>
   <br>
 <ul>
   <li>
@@ -181,7 +181,7 @@
 </ul>
 
  <details>
-  <summary>게시글 목록 / 상세</summary>
+  <summary><b>게시글 목록 / 상세</b></summary>
         <br>
    <ul>
      <li>
@@ -202,7 +202,7 @@
 
 
  <details>
-  <summary>쇼핑몰 상품 목록 / 상세</summary>
+  <summary><b>쇼핑몰 상품 목록 / 상세</b></summary>
         <br>
    <ul>
      <li>
@@ -223,7 +223,7 @@
 </ul>
 
 <details>
-  <summary>마이페이지</summary>
+  <summary><b>마이페이지</b></summary>
   <img width="1393" height="843" alt="마이페이지1" src="https://github.com/user-attachments/assets/b613fad2-e002-4527-9c57-526bbea5cbb8" />
   <img width="561" height="1300" alt="마이페이지2" src="https://github.com/user-attachments/assets/c439ef8d-86e1-4448-831f-f0186ca64113" />
 </details>
@@ -233,7 +233,7 @@
 ## 🎥 기능별 시연 이미지
 
 <details>
-  <summary><h3>🔐 OAuth 로그인</h3></summary>
+  <summary></b>🔐 OAuth 로그인</b></summary>
   <img src="https://github.com/user-attachments/assets/80cef67d-3f73-4eef-bc33-451156ea5786" width="700"/>
         <br>
    <ul>
@@ -260,7 +260,7 @@
 </ul>
 
   <details>
-  <summary><h3>📧 이메일 인증</h3></summary>
+  <summary><b>📧 이메일 인증</b></summary>
 <img src="https://github.com/user-attachments/assets/d0def194-3e27-4e40-8bfd-300bd76f4d8c" width="700"/>
 <img width="476" height="339" alt="이메일 인증1 drawio" src="https://github.com/user-attachments/assets/0af5f6ac-c48a-4660-8fcb-c846e0d8ca98" />
 <img width="462" height="351" alt="이메일 인증2 drawio" src="https://github.com/user-attachments/assets/b2e8b477-365b-4d29-8e51-55b132884e9e" />
@@ -269,7 +269,7 @@
 </details>
 
 <details>
-  <summary><h3>📝 게시글 작성 / 수정 / 삭제</h3></summary>
+  <summary><b>📝 게시글 작성 / 수정 / 삭제</b></summary>
         <br>
    <ul>
      <li>
@@ -297,28 +297,28 @@
 </ul>
 
   <details>
-  <summary><h3>💬 댓글 / 대댓글</h3></summary>
+  <summary><b>💬 댓글 / 대댓글</b></summary>
   <img src="https://github.com/user-attachments/assets/165c5851-3b5f-4373-9ce9-f750012ae1f7" width="700"/>
 <img width="1410" height="518" alt="댓글 작성 drawio" src="https://github.com/user-attachments/assets/b2286f2b-825d-469c-89d9-2a457a73ffa1" />
 
 </details>
 
   <details>
-  <summary><h3>✅ 다중 선택 삭제</h3></summary>
+  <summary><b>✅ 다중 선택 삭제</b></summary>
   <img src="https://github.com/user-attachments/assets/66644d8d-d8c8-4d47-a1dc-25827ca29701" width="700"/>
 <img width="1393" height="761" alt="상품 다중 삭제" src="https://github.com/user-attachments/assets/a66d7c8f-f483-4235-9d8b-2723393fae2d" />
 
 </details>
 
   <details>
-  <summary><h3>👥 사용자 팔로우</h3></summary>
+  <summary><b>👥 사용자 팔로우</b></summary>
  <img src="https://github.com/user-attachments/assets/d0c5b6cd-fe31-4745-8fa4-849076366849" width="700"/>
 <img width="1384" height="1019" alt="팔로우" src="https://github.com/user-attachments/assets/9598b4cf-cc1e-42ea-b4f6-b866fc6aff17" />
 
 </details>
 
   <details>
-  <summary><h3>👍 좋아요 / 🔖 북마크 / ❤️ 찜</h3></summary>
+  <summary><b>👍 좋아요 / 🔖 북마크 / ❤️ 찜</b></summary>
   <img width="1468" height="986" alt="좋북마" src="https://github.com/user-attachments/assets/7db60256-baee-46ba-9157-5a8a7652694a" />
   <img width="1390" height="864" alt="좋묵마2" src="https://github.com/user-attachments/assets/527ff50e-f161-4a53-9744-33024107804c" />
     
@@ -335,13 +335,13 @@
 
 <details>
   <summary>간단 ERD</summary>
-서비스 전반의 도메인 간 관계를 빠르게 파악하기 위한 구조도입니다.
+서비스 전반의 도메인 간 관계를 빠르게 파악하기 위한 구조도
 <img width="2523" height="1123" alt="erd 간소 drawio" src="https://github.com/user-attachments/assets/ed8258b4-89a4-46c6-b459-f0e3d7a204fe" />
 </details>
 
 <details>
   <summary>상세 ERD</summary>
-각 테이블의 PK/FK, 컬럼명, 관계 등을 포함한 상세 구조입니다.
+각 테이블의 PK/FK, 컬럼명, 관계 등을 포함한 상세 구조
 <img width="2497" height="1125" alt="erd 상세 drawio" src="https://github.com/user-attachments/assets/a18b31e3-9077-4004-bcdb-fd6254fdc65e" />
 </details>
 
