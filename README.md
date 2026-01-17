@@ -154,10 +154,8 @@
 
 ## 🖼 주요 화면 이미지
 
-- 메인 페이지  
-
 <details>
-  <summary>✨ 클릭해서 펼치기 / 접기</summary>
+  <summary>메인 페이지</summary>
   
 <img width="966" height="1265" alt="메인" src="https://github.com/user-attachments/assets/779d5183-0c72-4995-a425-b7ed5f506ab3" />
 
@@ -228,30 +226,18 @@
 본 프로젝트는 커뮤니티 + 쇼핑몰이 결합된 서비스 구조를 기반으로,  
 **회원·상품·게시글·장바구니·주문·포인트** 등 주요 도메인을 중심으로 ERD를 설계했습니다.
 
-- 회원(Member)을 중심으로 커뮤니티(게시글/댓글/좋아요/북마크/팔로우)
-- 쇼핑몰(상품/리뷰/장바구니/주문/배송/포인트) 구조가 유기적으로 연결되도록 구성
-- 다대다 관계(팔로우·좋아요·북마크 등)는 매핑 테이블로 분리하여 정규화
-
-### 간단 ERD
-
-서비스 전반의 도메인 간 관계를 빠르게 파악하기 위한 구조도입니다.
+- 회원(Member)을 중심으로 커뮤니티(게시글/댓글/좋아요/북마크/팔로우), 쇼핑몰(상품/리뷰/장바구니/주문/배송/포인트) 구조가 유기적으로 연결되도록 구성
 
 <details>
-  <summary>✨ 클릭해서 펼치기 / 접기</summary>
-
+  <summary>간단 ERD</summary>
+서비스 전반의 도메인 간 관계를 빠르게 파악하기 위한 구조도입니다.
 <img width="2523" height="1123" alt="erd 간소 drawio" src="https://github.com/user-attachments/assets/ed8258b4-89a4-46c6-b459-f0e3d7a204fe" />
-
 </details>
 
-### 상세 ERD
-
-각 테이블의 PK/FK, 컬럼명, 관계 등을 포함한 상세 구조입니다.
-
 <details>
-  <summary>✨ 클릭해서 펼치기 / 접기</summary>
-
+  <summary>상세 ERD</summary>
+각 테이블의 PK/FK, 컬럼명, 관계 등을 포함한 상세 구조입니다.
 <img width="2497" height="1125" alt="erd 상세 drawio" src="https://github.com/user-attachments/assets/a18b31e3-9077-4004-bcdb-fd6254fdc65e" />
-
 </details>
 
 ---
