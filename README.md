@@ -189,8 +189,8 @@
     <summary>게시글 목록</summary>
   <img width="1412" height="1077" alt="게시글 목록" src="https://github.com/user-attachments/assets/d841ecda-a4cb-408e-b5f1-5dfdc085831e" />
  </details>
-</li>
-     <li>
+    </li>
+  <li>
   <details>
 <summary>게시글 상세</summary>
   <img width="695" height="1025" alt="게시글 상세1" src="https://github.com/user-attachments/assets/45e7e6b8-c579-4a37-804c-80a5a64febfc" />
