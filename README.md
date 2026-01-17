@@ -234,14 +234,16 @@
 
 <details>
   <summary><h3>🔐 OAuth 로그인</h3></summary>
-  ![구글 로그인](https://github.com/user-attachments/assets/16a4cce4-8b5d-4f03-b3da-6d0dd6011415)
-  
+  ![구글 로그인](https://github.com/user-attachments/assets/80cef67d-3f73-4eef-bc33-451156ea5786)
+
         <br>
    <ul>
      <li>
  <details>
     <summary>Google 로그인</summary>
 <img width="1072" height="461" alt="구글 로그인 drawio" src="https://github.com/user-attachments/assets/78c1764c-13cc-4051-a1c6-4cc32e1b274b" />
+   ![구글 로그인](https://github.com/user-attachments/assets/0f2be1aa-bd72-48be-81c2-34870317cfac)
+
  </details>
 </li>
      <li>
