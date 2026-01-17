@@ -12,7 +12,7 @@
 | **개발 인원** | **5명** |
 | **프로젝트 형태** | 팀 프로젝트 |
 | **본인 역할** | 백엔드 개발 (회원 인증·마이페이지·커뮤니티·찜 기능·배포·DB 설계 일부) |
-| **주요 기술** | Java, Spring Boot, MyBatis, Ajax, JSP/JSTL, JavaScript, jQuery, Oracle, AWS EC2, Docker, OAuth 2.0|
+| **주요 기술** | Java, Spring Boot, MyBatis, JSP/JSTL, JavaScript, jQuery, Oracle, AWS EC2, Docker, OAuth2.0|
 | **프로젝트 주소** | http://www.naeilhomeshop.kro.kr/ |
 ---
 
