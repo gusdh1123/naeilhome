@@ -233,7 +233,7 @@
 ## 🎥 기능별 시연 이미지
 
 <details>
-  <summary></b>🔐 OAuth 로그인</b></summary>
+  <summary><b>🔐 OAuth 로그인</b></summary>
   <img src="https://github.com/user-attachments/assets/80cef67d-3f73-4eef-bc33-451156ea5786" width="700"/>
         <br>
    <ul>
