@@ -60,7 +60,7 @@
 - AWS EC2 (Ubuntu)
 - Docker (Oracle DB)
 - Tomcat (WAR 파일 배포)  
-  Spring Boot 프로젝트를 WAR 형태로 빌드하여 Tomcat에 배포
+  -> Spring Boot 프로젝트를 WAR 형태로 빌드하여 Tomcat에 배포
 - 고정 IP + 도메인 설정
 
 ### ⚙️ 협업 도구
