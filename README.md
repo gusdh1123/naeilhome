@@ -232,12 +232,36 @@
 
 ## 🎥 기능별 시연 이미지
 
-> GIF 파일은 `./images/gif` 폴더 등에 저장 후 경로만 맞춰 주세요.
-
 ### 🔐 OAuth 로그인
 
 - Google 로그인  
   ![구글 로그인](./images/gif/google-login.gif)
+
+<details>
+  <summary><h3>🔐 OAuth 로그인</h3></summary>
+  ![구글 로그인](https://github.com/user-attachments/assets/16a4cce4-8b5d-4f03-b3da-6d0dd6011415)
+        <br>
+   <ul>
+     <li>
+ <details>
+    <summary>Google 로그인</summary>
+<img width="1072" height="461" alt="구글 로그인 drawio" src="https://github.com/user-attachments/assets/78c1764c-13cc-4051-a1c6-4cc32e1b274b" />
+ </details>
+</li>
+     <li>
+  <details>
+<summary>Naver 로그인</summary>
+<img width="511" height="498" alt="네이버 로그인 drawio" src="https://github.com/user-attachments/assets/9f234379-243a-4e98-934e-98f08f8de99d" />
+ </details>
+       </li>
+          <li>
+  <details>
+<summary>Kakao 로그인</summary>
+<img width="541" height="924" alt="카카오 로그인 drawio" src="https://github.com/user-attachments/assets/ed67b97f-0fc6-4612-8b9a-7fbe760811ee" />
+ </details>
+       </li>
+</details>
+</ul>
 
 ### 📧 이메일 인증
 
