@@ -164,7 +164,7 @@
   <details>
   <summary>로그인 / 회원가입</summary>
 
-  <br></br>
+
  <details>
     <summary>로그인</summary>
   
