@@ -232,13 +232,14 @@
 
 서비스 전반의 도메인 간 관계를 빠르게 파악하기 위한 구조도입니다.
 
-![erd 간소.drawio.png](attachment:7059f2f5-d2f8-4394-b47f-57da7b5f379e:erd_간소.drawio.png)
+<img width="2523" height="1123" alt="erd 간소 drawio" src="https://github.com/user-attachments/assets/ed8258b4-89a4-46c6-b459-f0e3d7a204fe" />
 
 ### 상세 ERD
 
 각 테이블의 PK/FK, 컬럼명, 관계 등을 포함한 상세 구조입니다.
 
-![상세 ERD](./images/erd-detail.png)
+<img width="2497" height="1125" alt="erd 상세 drawio" src="https://github.com/user-attachments/assets/a18b31e3-9077-4004-bcdb-fd6254fdc65e" />
+
 
 ---
 
