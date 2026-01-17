@@ -183,7 +183,7 @@
  <details>
   <summary>게시글 목록 / 상세</summary>
         <br>
-   <ui>
+   <ul>
      <li>
  <details>
     <summary>게시글 목록</summary>
@@ -204,7 +204,7 @@
  <details>
   <summary>쇼핑몰 상품 목록 / 상세</summary>
         <br>
-   <ui>
+   <ul>
      <li>
  <details>
     <summary>상품 목록</summary>
