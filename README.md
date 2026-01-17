@@ -155,7 +155,7 @@
 ## 🖼 주요 화면 이미지
 
 <details>
-  <summary><div style="font-size: 22px; font-weight: bold;">메인 페이지</div></summary>
+  ### <summary>메인 페이지</summary>
   
 <img width="966" height="1265" alt="메인" src="https://github.com/user-attachments/assets/779d5183-0c72-4995-a425-b7ed5f506ab3" />
 
