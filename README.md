@@ -164,8 +164,9 @@
   <details>
   <summary>로그인 / 회원가입</summary>
 
-  <div style="margin-left: 20px;"> 
+    
  <details>
+    <div style="margin-top: 20px;"> 
     <summary>로그인</summary>
   
 <img width="360" height="471" alt="로그인 화면 drawio" src="https://github.com/user-attachments/assets/da93a266-04c5-4916-a9f5-20f4844f3970" />
