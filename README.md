@@ -155,7 +155,7 @@
 ## 🖼 주요 화면 이미지
 
 <details>
-  <summary>메인 페이지  </summary>
+  <summary><span style="font-size: 20px; font-weight: bold;">메인 페이지</span></summary>
   
 <img width="966" height="1265" alt="메인" src="https://github.com/user-attachments/assets/779d5183-0c72-4995-a425-b7ed5f506ab3" />
 
@@ -318,7 +318,7 @@
 </details>
 
   <details>
-  <summary><h3>📧 좋아요/북마크/찜</h3></summary>
+  <summary><h3>👍 좋아요 / 🔖 북마크 / ❤️ 찜</h3></summary>
   <img width="1468" height="986" alt="좋북마" src="https://github.com/user-attachments/assets/7db60256-baee-46ba-9157-5a8a7652694a" />
   <img width="1390" height="864" alt="좋묵마2" src="https://github.com/user-attachments/assets/527ff50e-f161-4a53-9744-33024107804c" />
     
