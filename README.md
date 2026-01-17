@@ -152,14 +152,16 @@
 
 ---
 
-## 🖼 주요 화면 (예시 캡처)
-
-> 아래 이미지는 예시 경로입니다.  
-> 실제 레포 폴더 구조에 맞게 수정해서 사용하세요.
+## 🖼 주요 화면 이미지
 
 - 메인 페이지  
-  ![메인 화면](./images/main.png)
 
+<details>
+  <summary>✨ 클릭해서 펼치기 / 접기</summary>
+  
+<img width="966" height="1265" alt="메인" src="https://github.com/user-attachments/assets/779d5183-0c72-4995-a425-b7ed5f506ab3" />
+
+</details>
   
 
 - 로그인 / 회원가입  
@@ -179,7 +181,7 @@
 
 ---
 
-## 🎥 기능별 시연 (GIF 예시)
+## 🎥 기능별 시연 이미지
 
 > GIF 파일은 `./images/gif` 폴더 등에 저장 후 경로만 맞춰 주세요.
 
