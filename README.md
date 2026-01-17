@@ -182,9 +182,9 @@
 
  <details>
   <summary>게시글 목록 / 상세</summary>
+        <br>
    <ui>
      <li>
-     <br>
  <details>
     <summary>게시글 목록</summary>
   <img width="1412" height="1077" alt="게시글 목록" src="https://github.com/user-attachments/assets/d841ecda-a4cb-408e-b5f1-5dfdc085831e" />
@@ -199,12 +199,34 @@
        </li>
 </details>
 </ul>
-- 쇼핑몰 상품 목록 / 상세  
-  ![상품 목록](./images/product-list.png)  
-  ![상품 상세](./images/product-detail.png)
 
-- 마이페이지  
-  ![마이페이지](./images/mypage.png)
+
+ <details>
+  <summary>쇼핑몰 상품 목록 / 상세</summary>
+        <br>
+   <ui>
+     <li>
+ <details>
+    <summary>상품 목록</summary>
+<img width="1378" height="1249" alt="상품목록1" src="https://github.com/user-attachments/assets/b73919f7-4ff2-48d3-9749-82202cce0e4b" />
+<img width="1403" height="1187" alt="상품목록2" src="https://github.com/user-attachments/assets/bb40be3e-4b53-43f0-a18b-e94ea45420b3" />
+ </details>
+</li>
+     <li>
+  <details>
+<summary>상품 상세</summary>
+<img width="695" height="1025" alt="게시글 상세1" src="https://github.com/user-attachments/assets/96237008-5c73-49b6-990d-f57fba431731" />
+<img width="683" height="653" alt="게시글 상세2" src="https://github.com/user-attachments/assets/7a378f0d-a46c-48f6-9744-26732db1c8c9" />
+ </details>
+       </li>
+</details>
+</ul>
+
+<details>
+  <summary>마이페이지</summary>
+  <img width="1393" height="843" alt="마이페이지1" src="https://github.com/user-attachments/assets/b613fad2-e002-4527-9c57-526bbea5cbb8" />
+  <img width="561" height="1300" alt="마이페이지2" src="https://github.com/user-attachments/assets/c439ef8d-86e1-4448-831f-f0186ca64113" />
+</details>
 
 ---
 
