@@ -155,16 +155,31 @@
 ## 🖼 주요 화면 이미지
 
 <details>
-  <summary>메인 페이지</summary>
+  <summary>- 메인 페이지</summary>
   
 <img width="966" height="1265" alt="메인" src="https://github.com/user-attachments/assets/779d5183-0c72-4995-a425-b7ed5f506ab3" />
 
 </details>
   
-
-- 로그인 / 회원가입  
   ![로그인](./images/login.png)  
   ![회원가입](./images/signup.png)
+
+  <details>
+  <summary>- 로그인 / 회원가입</summary>
+
+    <summary>- 로그인</summary>
+  
+<img width="360" height="471" alt="로그인 화면 drawio" src="https://github.com/user-attachments/assets/da93a266-04c5-4916-a9f5-20f4844f3970" />
+
+</details>
+
+<summary>- 회원가입</summary>
+  
+<img width="394" height="1240" alt="회원가입 화면" src="https://github.com/user-attachments/assets/e5766998-99a7-4805-b92e-39b7b6d62f2b" />
+
+</details>
+
+</details>
 
 - 게시글 목록 / 상세  
   ![게시글 목록](./images/post-list.png)  
