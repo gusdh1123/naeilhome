@@ -232,7 +232,7 @@
 
 서비스 전반의 도메인 간 관계를 빠르게 파악하기 위한 구조도입니다.
 
-![간단 ERD](![erd 간소.drawio.png](attachment:7059f2f5-d2f8-4394-b47f-57da7b5f379e:erd_간소.drawio.png))
+![erd 간소.drawio.png](attachment:7059f2f5-d2f8-4394-b47f-57da7b5f379e:erd_간소.drawio.png)
 
 ### 상세 ERD
 
