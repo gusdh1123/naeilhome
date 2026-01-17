@@ -243,8 +243,12 @@
 
 각 테이블의 PK/FK, 컬럼명, 관계 등을 포함한 상세 구조입니다.
 
+<details>
+  <summary>✨ 클릭해서 펼치기 / 접기</summary>
+
 <img width="2497" height="1125" alt="erd 상세 drawio" src="https://github.com/user-attachments/assets/a18b31e3-9077-4004-bcdb-fd6254fdc65e" />
 
+</details>
 
 ---
 
