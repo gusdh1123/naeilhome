@@ -232,14 +232,10 @@
 
 ## 🎥 기능별 시연 이미지
 
-### 🔐 OAuth 로그인
-
-- Google 로그인  
-  ![구글 로그인](./images/gif/google-login.gif)
-
 <details>
   <summary><h3>🔐 OAuth 로그인</h3></summary>
   ![구글 로그인](https://github.com/user-attachments/assets/16a4cce4-8b5d-4f03-b3da-6d0dd6011415)
+  
         <br>
    <ul>
      <li>
