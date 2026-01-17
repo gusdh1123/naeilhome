@@ -173,7 +173,7 @@
 <summary>회원가입</summary>
   
 <img width="394" height="1240" alt="회원가입 화면" src="https://github.com/user-attachments/assets/e5766998-99a7-4805-b92e-39b7b6d62f2b" />
-
+ </details>
 </details>
 
 - 게시글 목록 / 상세  
