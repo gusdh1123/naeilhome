@@ -166,6 +166,7 @@
   
 <ul>
   <li>
+    <br>
  <details>
     <summary>로그인</summary>
 <img width="360" height="471" alt="로그인 화면 drawio" src="https://github.com/user-attachments/assets/da93a266-04c5-4916-a9f5-20f4844f3970" />
@@ -180,42 +181,25 @@
 </details>
 </ul>
 
-<details>
-  <summary>로그인 / 회원가입</summary>
-
-  <ul>
-    <li>
-      <details>
-        <summary>로그인</summary>
-        <img width="360" src="URL" />
-      </details>
-    </li>
-
-    <li>
-      <details>
-        <summary>회원가입</summary>
-        <img width="360" src="URL" />
-      </details>
-    </li>
-  </ul>
-
-</details>
-
  <details>
   <summary>게시글 목록 / 상세</summary>
-<br>
+   <ui>
+     <li>
+     <br>
  <details>
     <summary>게시글 목록</summary>
   <img width="1412" height="1077" alt="게시글 목록" src="https://github.com/user-attachments/assets/d841ecda-a4cb-408e-b5f1-5dfdc085831e" />
  </details>
-
+</li>
+     <li>
   <details>
 <summary>게시글 상세</summary>
   <img width="695" height="1025" alt="게시글 상세1" src="https://github.com/user-attachments/assets/45e7e6b8-c579-4a37-804c-80a5a64febfc" />
   <img width="683" height="653" alt="게시글 상세2" src="https://github.com/user-attachments/assets/8a2b9bb6-9000-4fad-afd0-803b77e453b8" />
  </details>
+       </li>
 </details>
-
+</ul>
 - 쇼핑몰 상품 목록 / 상세  
   ![상품 목록](./images/product-list.png)  
   ![상품 상세](./images/product-detail.png)
