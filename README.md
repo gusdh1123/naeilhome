@@ -233,7 +233,7 @@
 ## 🎥 기능별 시연 이미지
 
 <details>
-  <summary>🔐 OAuth 로그인</summary>
+  <summary><h3>🔐 OAuth 로그인</h3></summary>
   <img src="https://github.com/user-attachments/assets/80cef67d-3f73-4eef-bc33-451156ea5786" width="700"/>
         <br>
    <ul>
@@ -259,36 +259,70 @@
 </details>
 </ul>
 
-### 📧 이메일 인증
+  <details>
+  <summary><h3>📧 이메일 인증</h3></summary>
+<img src="https://github.com/user-attachments/assets/d0def194-3e27-4e40-8bfd-300bd76f4d8c" width="700"/>
+<img width="476" height="339" alt="이메일 인증1 drawio" src="https://github.com/user-attachments/assets/0af5f6ac-c48a-4660-8fcb-c846e0d8ca98" />
+<img width="462" height="351" alt="이메일 인증2 drawio" src="https://github.com/user-attachments/assets/b2e8b477-365b-4d29-8e51-55b132884e9e" />
+<img width="461" height="368" alt="이메일 인증3 drawio" src="https://github.com/user-attachments/assets/db552289-a757-47dc-beb6-217539183a9b" />
+ 
+</details>
 
-- 이메일 인증 플로우  
-  ![이메일 인증](./images/gif/email-verify.gif)
+<details>
+  <summary><h3>📝 게시글 작성 / 수정 / 삭제</h3></summary>
+        <br>
+   <ul>
+     <li>
+ <details>
+    <summary>게시글 작성</summary>
+<img src="https://github.com/user-attachments/assets/5f758178-7979-45ec-9111-b3a487272c9b" width="700"/>
+<img width="594" height="1185" alt="글작성 drawio" src="https://github.com/user-attachments/assets/6c93fb8a-f493-453b-9859-9356d3bddcfe" />
+ </details>
+</li>
+     <li>
+  <details>
+<summary>게시글 수정</summary>
+<img width="571" height="1216" alt="게시글 수정 drawio" src="https://github.com/user-attachments/assets/93f04e20-c73a-4958-a4d8-fcd049a5a4f6" />
+<img width="734" height="909" alt="게시글 수정2" src="https://github.com/user-attachments/assets/5f89e591-099a-488e-8cc3-e4e9392d1f23" />
+ </details>
+       </li>
+          <li>
+  <details>
+<summary>게시글 삭제</summary>
+<img width="1409" height="1257" alt="게시글 삭제 drawio" src="https://github.com/user-attachments/assets/fb736c6a-08a1-4ccc-ac59-667c481de63c" />
+<img width="734" height="535" alt="게시글 삭제2" src="https://github.com/user-attachments/assets/d942607f-4262-455e-8b83-9bd867cb4d27" />
+ </details>
+       </li>
+</details>
+</ul>
 
-### 📝 게시글 작성 / 수정 / 삭제
+  <details>
+  <summary><h3>💬 댓글 / 대댓글</h3></summary>
+  <img src="https://github.com/user-attachments/assets/165c5851-3b5f-4373-9ce9-f750012ae1f7" width="700"/>
+<img width="1410" height="518" alt="댓글 작성 drawio" src="https://github.com/user-attachments/assets/b2286f2b-825d-469c-89d9-2a457a73ffa1" />
 
-- 게시글 작성  
-  ![게시글 작성](./images/gif/post-create.gif)
+</details>
 
-- 게시글 수정  
-  ![게시글 수정](./images/gif/post-update.gif)
+  <details>
+  <summary><h3>✅ 다중 선택 삭제</h3></summary>
+  <img src="https://github.com/user-attachments/assets/66644d8d-d8c8-4d47-a1dc-25827ca29701" width="700"/>
+<img width="1393" height="761" alt="상품 다중 삭제" src="https://github.com/user-attachments/assets/a66d7c8f-f483-4235-9d8b-2723393fae2d" />
 
-- 게시글 삭제  
-  ![게시글 삭제](./images/gif/post-delete.gif)
+</details>
 
-### 💬 댓글 / 대댓글 (Ajax)
+  <details>
+  <summary><h3>👥 사용자 팔로우</h3></summary>
+ <img src="https://github.com/user-attachments/assets/d0c5b6cd-fe31-4745-8fa4-849076366849" width="700"/>
+<img width="1384" height="1019" alt="팔로우" src="https://github.com/user-attachments/assets/9598b4cf-cc1e-42ea-b4f6-b866fc6aff17" />
 
-- 댓글 / 대댓글 작성  
-  ![댓글 작성](./images/gif/comment-reply.gif)
+</details>
 
-### ✅ 다중 선택 삭제
-
-- 마이페이지 목록 다중 삭제  
-  ![다중 삭제](./images/gif/multi-delete.gif)
-
-### 👥 사용자 팔로우
-
-- 팔로우 / 언팔로우  
-  ![팔로우](./images/gif/follow.gif)
+  <details>
+  <summary><h3>📧 좋아요/북마크/찜</h3></summary>
+  <img width="1468" height="986" alt="좋북마" src="https://github.com/user-attachments/assets/7db60256-baee-46ba-9157-5a8a7652694a" />
+  <img width="1390" height="864" alt="좋묵마2" src="https://github.com/user-attachments/assets/527ff50e-f161-4a53-9744-33024107804c" />
+    
+</details>
 
 ---
 
