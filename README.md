@@ -1,5 +1,5 @@
 ## 🛋️ [내일의 집(커뮤니티 기반 인테리어 쇼핑몰 플랫폼)](http://www.naeilhomeshop.kro.kr/)
-[<img src="https://github.com/user-attachments/assets/9a07b400-d44f-4127-a809-dabaa7c8b3ab" width="700"/>](http://www.naeilhomeshop.kro.kr/)
+[<img src="https://github.com/user-attachments/assets/9a07b400-d44f-4127-a809-dabaa7c8b3ab" width="1000"/>](http://www.naeilhomeshop.kro.kr/)
 
 ## ℹ️ 프로젝트 소개
 
