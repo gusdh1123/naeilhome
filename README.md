@@ -17,14 +17,15 @@
 ### 💻 Backend
 - Java / Spring MVC → Spring Boot 마이그레이션
 - MyBatis
-- OAuth 2.0 (소셜 로그인)
 - JSP / JSTL
-- Ajax (댓글/대댓글 비동기 처리)
+- OAuth 2.0 (소셜 로그인)
+- Tiles (공통 레이아웃 구성)
+- Ajax 요청 처리(댓글/대댓글 등록·수정·삭제)
 
 ### 🖥️ Frontend
 - HTML5 / CSS3 / JS / jQuery
+- Ajax (비동기 통신)
 - Summernote (게시글 에디터)
-- Tiles (공통 레이아웃 구성)
 
 ### 🗃️ Database
 - Oracle DB (Docker 환경)
