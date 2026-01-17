@@ -160,6 +160,8 @@
 - 메인 페이지  
   ![메인 화면](./images/main.png)
 
+  
+
 - 로그인 / 회원가입  
   ![로그인](./images/login.png)  
   ![회원가입](./images/signup.png)
