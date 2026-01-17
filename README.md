@@ -164,7 +164,7 @@
   <details>
   <summary>로그인 / 회원가입</summary>
 
-     <div style="margin-top: 20px;"> 
+  <br></br>
  <details>
     <summary>로그인</summary>
   
