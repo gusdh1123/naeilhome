@@ -176,6 +176,28 @@
  
 </details>
 
+
+<details>
+  <summary>로그인 / 회원가입</summary>
+
+  <ul>
+    <li>
+      <details>
+        <summary>로그인</summary>
+        <img width="360" src="URL" />
+      </details>
+    </li>
+
+    <li>
+      <details>
+        <summary>회원가입</summary>
+        <img width="360" src="URL" />
+      </details>
+    </li>
+  </ul>
+
+</details>
+
  <details>
   <summary>게시글 목록 / 상세</summary>
 <br>
