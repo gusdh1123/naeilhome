@@ -160,10 +160,11 @@
 <img width="966" height="1265" alt="메인" src="https://github.com/user-attachments/assets/779d5183-0c72-4995-a425-b7ed5f506ab3" />
 
 </details>
+
   <details>
   <summary>로그인 / 회원가입</summary>
 
-    
+  <div style="margin-left: 20px;"> 
  <details>
     <summary>로그인</summary>
   
