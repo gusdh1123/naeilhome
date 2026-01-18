@@ -33,22 +33,21 @@
 - Java / Spring MVC → Spring Boot 마이그레이션
 - MyBatis
 - JSP / JSTL
-- OAuth 2.0 (소셜 로그인)
-- Tiles (공통 레이아웃 구성)
-- Ajax 요청 처리(댓글/대댓글 등록·수정·삭제)
+- OAuth 2.0
+- Tiles
 
 ### 🖥️ Frontend
-- HTML5 / CSS3 / JS / jQuery
-- Ajax (비동기 통신)
-- Summernote (게시글 에디터)
+- HTML5 / CSS3 / JavaScript
+- jQuery / Ajax
+- Summernote
 
 ### 🗃️ Database
-- Oracle DB (Docker 환경)
-
+- Oracle DB
+  
 ### ☁️ DevOps
 - AWS EC2 (Ubuntu)
-- Docker (Oracle DB)
-- Tomcat (WAR 파일 배포)
+- Docker
+- Tomcat
 - 고정 IP + 도메인 설정
 
 ### ⚙️ 협업 도구
