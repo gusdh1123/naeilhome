@@ -58,15 +58,24 @@
 
 ## 🙋‍♂️ 담당 역할 (Backend Developer)
 
-### 🔐 회원 · 인증
-- 일반 로그인 및 소셜 로그인(Kakao / Naver / Google) 구현
-  - OAuth 2.0 Authorization Code 플로우 구현
-  (로그인 URL 생성 → 콜백에서 code 처리 → Access Token 발급 → 사용자 정보 조회)
-  - 소셜 연동 해제 시, 세션에 저장된 Refresh Token을 활용해 Access Token 재발급 후
-    각 플랫폼 계정 연동 해제 API 호출 및 내부 회원 탈퇴 로직 연동
-- 이메일 인증 기능 구현   
-  - 인증번호 생성 및 검증 로직 작성  
-  - 가입과 연동된 인증 프로세스 구성
+### 🔐 OAuth 2.0 기반 소셜 로그인 구현
+
+#### Google / Naver (직접 구현)
+- OAuth 2.0 Authorization Code 플로우 구현  
+  (Login URL 생성 → Callback → Access Token 발급 → 사용자 정보 조회)
+- 신규/기존 회원 분기 처리 및 내부 회원 도메인 연동
+- Access Token / Refresh Token 저장 및 세션 관리
+
+#### Kakao (팀 개발 + 보완 구현)
+- Kakao 로그인은 팀원이 구현한 API 기반 연동
+- Kakao 연동 해제(탈퇴) 기능 직접 구현
+  - Refresh Token 기반 Access Token 재발급
+  - Kakao 계정 연결 해제 API 호출
+  - 내부 회원 탈퇴 로직과 연동
+
+#### 공통
+- 3개 플랫폼 모두 연동 해제 처리 통합
+- 오류 처리, 토큰 만료 대응, 세션 구조 통일
 
 ### 👤 마이페이지 기능 구현
 - 나의 게시글 / 좋아요 / 북마크 / 찜 / 팔로워·팔로잉 목록 조회  
