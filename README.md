@@ -144,7 +144,7 @@
   - 패키지 구조 재정비 및 MVC 흐름 정리
 - **AWS EC2(Ubuntu) 환경에서 배포**
   - **Docker 기반 Oracle DB 컨테이너** 구축
-  - Spring Boot 프로젝트를 WAR 형태로 패키징하여 외부 Tomcat에 배포 
+  - EC2 인스턴스에 Tomcat 설치 후 Spring Boot WAR 파일 배포 
   - 고정 IP 및 도메인 연결 설정  
 - Tiles 템플릿을 활용해 공통 레이아웃 구성
 
