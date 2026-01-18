@@ -59,7 +59,7 @@
 ## 🙋‍♂️ 담당 역할 (Backend Developer)
 
 ### 🔐 OAuth 2.0 기반 소셜 로그인
-- Google / Naver OAuth 2.0 Authorization Code 플로우 구현
+- Google / Naver OAuth 2.0 Authorization Code 플로우 구현  
 (로그인 URL 생성 → Callback → Access Token 발급 → 사용자 정보 조회)
   - Access Token / Refresh Token 기반 세션 관리
 - Google / Naver / Kakao 계정 연동 해제 기능 구현
