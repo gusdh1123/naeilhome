@@ -59,11 +59,11 @@
 ## 🙋‍♂️ 담당 역할 (Backend Developer)
 
 ### 🔐 회원 · 인증
-- 일반 로그인 구현
-- 카카오 / 네이버 / 구글 OAuth 2.0 인증 구현  
-  - Authorization Code 발급 → Access Token 요청 → 사용자 정보 조회  
-  - Access Token 만료 시 Refresh Token을 이용한 자동 재발급 처리  
-  - 각 플랫폼별 회원 탈퇴 API 연동  
+- 일반 로그인 및 소셜 로그인(Kakao / Naver / Google) 구현
+  - OAuth 2.0 Authorization Code 플로우 구현
+  (로그인 URL 생성 → 콜백에서 code 처리 → Access Token 발급 → 사용자 정보 조회)
+  - 소셜 연동 해제 시, 세션에 저장된 Refresh Token을 활용해 Access Token 재발급 후
+    각 플랫폼 계정 연동 해제 API 호출 및 내부 회원 탈퇴 로직 연동
 - 이메일 인증 기능 구현   
   - 인증번호 생성 및 검증 로직 작성  
   - 가입과 연동된 인증 프로세스 구성
