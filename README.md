@@ -60,13 +60,13 @@
 
 ### 🔐 OAuth 2.0 기반 소셜 로그인 구현
 
-#### Google / Naver (직접 구현)
+#### Google / Naver
 - OAuth 2.0 Authorization Code 플로우 구현  
   (Login URL 생성 → Callback → Access Token 발급 → 사용자 정보 조회)
 - 신규/기존 회원 분기 처리 및 내부 회원 도메인 연동
 - Access Token / Refresh Token 저장 및 세션 관리
 
-#### Kakao (팀 개발 + 보완 구현)
+#### Kakao
 - Kakao 로그인은 팀원이 구현한 API 기반 연동
 - Kakao 연동 해제(탈퇴) 기능 직접 구현
   - Refresh Token 기반 Access Token 재발급
