@@ -105,12 +105,11 @@
 
 ### 🔐 OAuth 2.0 기반 소셜 로그인
 - **Google / Naver OAuth 2.0 로그인 기능 구현**  
-  - 로그인 URL 생성 → Callback 처리 → Authorization Code로 Access Token 발급
-  - 발급된 토큰을 기반으로 사용자 정보 조회 및 내부 회원 도메인과 연동
-  - **Access Token / Refresh Token**을 활용한 세션 관리 적용
+ - 로그인 URL 생성 → Callback 처리 → Authorization Code로 Access Token 발급
+ - 발급된 Access Token으로 사용자 정보 조회 후 내부 회원 시스템과 연동
 - **Google / Naver / Kakao 계정 연동 해제(탈퇴) 기능 구현**
-  - 토큰 만료 시 **Refresh Token**으로 새로운 Access Token 재발급
-  - 플랫폼 **Unlink API** 호출 후 내부 회원 탈퇴 로직과 연결하여 처리
+  - 필요 시 Refresh Token을 이용한 Access Token 재발급 처리
+  - 각 플랫폼의 **Unlink API** 호출 후 내부 회원 탈퇴 로직과 연결
 
 ### 👤 마이페이지 기능
 - 게시글 / 좋아요 / 북마크 / 찜 / 팔로워·팔로잉 목록 조회 기능 구현
@@ -143,8 +142,7 @@
   - XML 설정 제거 → 어노테이션 기반 환경으로 전환
   - 패키지 구조 재정비 및 MVC 흐름 정리
 - **AWS EC2(Ubuntu) 환경에서 배포**
-  - **Docker 기반 Oracle DB 컨테이너** 구축
-  - EC2 인스턴스에 Tomcat 설치 후 Spring Boot WAR 파일 배포 
+  - AWS EC2(Ubuntu)에 Docker로 Oracle DB 컨테이너를 구성하고, 동일 서버에 Tomcat을 설치해 Spring Boot WAR 파일을 배포
   - 고정 IP 및 도메인 연결 설정  
 - Tiles 템플릿을 활용해 공통 레이아웃 구성
 
