@@ -1,5 +1,5 @@
 ## 🛋️ [내일의 집(커뮤니티 기반 인테리어 쇼핑몰 플랫폼)](http://www.naeilhomeshop.kro.kr/)
-<!-- [ --> <img src="https://github.com/user-attachments/assets/9a07b400-d44f-4127-a809-dabaa7c8b3ab" width="1020"/> <!-- ](http://www.naeilhomeshop.kro.kr/) -->
+[<img src="https://github.com/user-attachments/assets/9a07b400-d44f-4127-a809-dabaa7c8b3ab" width="1020"/>](http://www.naeilhomeshop.kro.kr/)
 
 ---
 
@@ -11,7 +11,7 @@
 | **개발 기간** | 2025.02.18 ~ 2025.04.25 (약 9주) |
 | **개발 인원** | 5명 |
 | **주요 기술** | **Java, Spring Boot, MyBatis, JSP/JSTL, JavaScript(jQuery, Ajax), Oracle DB, OAuth 2.0** |
-| **프로젝트 주소** | ※ 현재는 클라우드 프리티어 기간 종료로 인해 서버가 중지된 상태입니다. 배포 및 기능 동작은 아래 시연 이미지(GIF)로 확인하실 수 있습니다. <!-- http://www.naeilhomeshop.kro.kr/ --> |
+| **프로젝트 주소** | http://www.naeilhomeshop.kro.kr/|
 ---
 
 ## ℹ️ 개발 배경 및 소개
