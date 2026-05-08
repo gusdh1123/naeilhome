@@ -13,7 +13,7 @@
 | **주요 기술** | **Java, Spring Boot, MyBatis, JSP/JSTL, JavaScript(jQuery, Ajax), Oracle DB, OAuth 2.0** |
 | **프로젝트 주소** | http://www.naeilhomeshop.kro.kr/|
 
-> 📌 사용자 간 인테리어 아이디어 공유와 상품 구매를 자연스럽게 연결한 웹 서비스입나다.
+📌 사용자 간 인테리어 아이디어 공유와 상품 구매를 자연스럽게 연결한 웹 서비스입나다.
 
 ---
 
