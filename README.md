@@ -172,6 +172,24 @@
 
 ---
 
+## 🗃️ DB 설계 (ERD)
+
+본 프로젝트는 커뮤니티 + 쇼핑몰 기능이 결합된 구조를 기반으로,
+회원을 중심으로 한 게시글·댓글·좋아요·북마크·팔로우,
+상품 기반의 장바구니·주문·리뷰·포인트 등 주요 도메인을 고려하여 ERD를 설계했습니다.
+
+<details>
+  <summary>간단 ERD</summary>
+<img width="2523" height="1123" alt="erd 간소 drawio" src="https://github.com/user-attachments/assets/ed8258b4-89a4-46c6-b459-f0e3d7a204fe" />
+</details>
+
+<details>
+  <summary>상세 ERD</summary>
+<img width="2497" height="1125" alt="erd 상세 drawio" src="https://github.com/user-attachments/assets/a18b31e3-9077-4004-bcdb-fd6254fdc65e" />
+</details>
+
+---
+
 ## 🖼 주요 화면 이미지
 
 <details>
@@ -342,24 +360,6 @@
   <img width="1468" height="986" alt="좋북마" src="https://github.com/user-attachments/assets/7db60256-baee-46ba-9157-5a8a7652694a" />
   <img width="1390" height="864" alt="좋묵마2" src="https://github.com/user-attachments/assets/527ff50e-f161-4a53-9744-33024107804c" />
     
-</details>
-
----
-
-## 🗃️ DB 설계 (ERD)
-
-본 프로젝트는 커뮤니티 + 쇼핑몰 기능이 결합된 구조를 기반으로,
-회원을 중심으로 한 게시글·댓글·좋아요·북마크·팔로우,
-상품 기반의 장바구니·주문·리뷰·포인트 등 주요 도메인을 고려하여 ERD를 설계했습니다.
-
-<details>
-  <summary>간단 ERD</summary>
-<img width="2523" height="1123" alt="erd 간소 drawio" src="https://github.com/user-attachments/assets/ed8258b4-89a4-46c6-b459-f0e3d7a204fe" />
-</details>
-
-<details>
-  <summary>상세 ERD</summary>
-<img width="2497" height="1125" alt="erd 상세 drawio" src="https://github.com/user-attachments/assets/a18b31e3-9077-4004-bcdb-fd6254fdc65e" />
 </details>
 
 <!--
