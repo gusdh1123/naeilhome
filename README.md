@@ -32,12 +32,12 @@
 ### 💻 Backend
 - Java / Spring MVC → Spring Boot 마이그레이션
 - MyBatis
-- JSP / JSTL
 - OAuth 2.0
 - Tiles
 
 ### 🖥️ Frontend
 - HTML5 / CSS3 / JavaScript
+- JSP / JSTL
 - jQuery / Ajax
 - Summernote
 
@@ -140,8 +140,8 @@
 - **Spring MVC → Spring Boot 마이그레이션**
 - **AWS EC2(Ubuntu) 환경에서 배포**
   - AWS EC2(Ubuntu)에 Docker로 Oracle DB 컨테이너를 구성하고, 같은 EC2 서버에 Tomcat을 설치해 Spring Boot WAR 파일을 배포
-  - 고정 IP 및 도메인 연결 설정  
-- Tiles 템플릿을 활용해 공통 레이아웃 구성
+  - 고정 IP 및 도메인 연결 설정
+- Tiles 템플릿과 JSP를 활용한 공통 레이아웃 구성 및 담당 페이지 화면 구현
 
 ---
 
