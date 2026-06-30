@@ -14,7 +14,7 @@
 	<title>마이페이지</title>
 </head>
 <script src="http://code.jquery.com/jquery-latest.js"></script>
-<script src="http://dmaps.daum.net/map_js_init/postcode.v2.js"></script>
+<script src="https://t1.kakaocdn.net/mapjsapi/bundle/postcode/prod/postcode.v2.js"></script>
 <script>
 $(document).ready(function(){
      $('.nav1_ul_li').mouseenter(function(){
