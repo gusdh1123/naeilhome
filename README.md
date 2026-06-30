@@ -268,6 +268,7 @@
   <summary><b>마이페이지</b></summary>
   <img width="1393" height="843" alt="마이페이지1" src="https://github.com/user-attachments/assets/b613fad2-e002-4527-9c57-526bbea5cbb8" />
   <img width="561" height="1300" alt="마이페이지2" src="https://github.com/user-attachments/assets/c439ef8d-86e1-4448-831f-f0186ca64113" />
+  <img width="890" height="960" alt="비밀번호 수정" src="https://github.com/user-attachments/assets/8e82e657-c864-46e5-b5c2-bdea1b24d57d" />
 </details>
 
 ---
@@ -309,6 +310,28 @@
 <img width="461" height="368" alt="이메일 인증3 drawio" src="https://github.com/user-attachments/assets/db552289-a757-47dc-beb6-217539183a9b" />
  
 </details>
+
+<!--
+<details>
+  <summary><b>👤 마이페이지 수정</b></summary>
+        <br>
+   <ul>
+     <li>
+ <details>
+    <summary>프로필 수정</summary>
+<img src="https://github.com/user-attachments/assets/5f758178-7979-45ec-9111-b3a487272c9b" width="700"/>
+<img width="594" height="1185" alt="글작성 drawio" src="https://github.com/user-attachments/assets/6c93fb8a-f493-453b-9859-9356d3bddcfe" />
+ </details>
+</li>
+     <li>
+  <details>
+<summary>비밀번호 수정</summary>
+<img width="571" height="1216" alt="게시글 수정 drawio" src="https://github.com/user-attachments/assets/93f04e20-c73a-4958-a4d8-fcd049a5a4f6" />
+<img width="734" height="909" alt="게시글 수정2" src="https://github.com/user-attachments/assets/5f89e591-099a-488e-8cc3-e4e9392d1f23" />
+ </details>
+       </li>
+</ul>
+-->
 
 <details>
   <summary><b>📝 게시글 작성 / 수정 / 삭제</b></summary>
